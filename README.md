@@ -4,7 +4,8 @@
 - 📫 How to reach me ...
   - Email: moharifhidayat7@outlook.com
   - Microsoft Teams: moharifhidayat7@outlook.com
-- Target:
+ 
+Current Target:
   - Learn more javascript library
   - Push a code everyday
 
