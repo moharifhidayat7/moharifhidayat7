@@ -4,6 +4,9 @@
 - 📫 How to reach me ...
   - Email: moharifhidayat7@outlook.com
   - Microsoft Teams: moharifhidayat7@outlook.com
+- Target:
+  - Learn more javascript library
+  - Push a code everyday
 
 <!---
 moharifhidayat7/moharifhidayat7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
