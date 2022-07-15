@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arif
 - 👀 I’m interested in Web Development especially in Javascript ecosystem
-- 🌱 I’m currently learning Typescript
 - 📫 How to reach me ...
   - Email: moharifhidayat7@outlook.com
  
